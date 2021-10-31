@@ -73,7 +73,9 @@ header img{
 
 
 
-
+.success{
+	overflow:hidden;
+}
 .success .first{
 	text-align: right; 
 }
@@ -105,6 +107,9 @@ header img{
 /*feature section starts here*/
 
 
+.feature{
+	overflow:hidden;
+}
 .col-lg-4{
 	width: 33.33%;
 	float: left;
